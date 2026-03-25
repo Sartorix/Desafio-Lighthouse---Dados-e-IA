@@ -250,8 +250,6 @@ Motor de recomendacao baseado em similaridade de cosseno para o produto "GPS Gar
 
 ## Respostas Consolidadas (Validacoes)
 
-Todas as respostas, textos de interpretacao e codigos SQL estao no arquivo **[RESPOSTAS.md](RESPOSTAS.md)**, pronto para copiar e colar na plataforma de submissao.
-
 | Questao | Pergunta | Resposta |
 |---------|----------|----------|
 | 1.2     | Valor maximo da coluna "total" | R$ 2.222.973,00 |
